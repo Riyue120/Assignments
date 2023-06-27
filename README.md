@@ -7,6 +7,7 @@ I answered the inline questions in Chinese.[中文]
 
 Continue to update my work till finish all assignments.
 1. Assignment 1 finished on 23-05-15.
+2. Assignment 2 finished on 23-06-17.
 
 # 中文
 这是斯坦福2023春季课程CS231n的作业部分。
@@ -17,6 +18,7 @@ Continue to update my work till finish all assignments.
 
 目前完成：
 1. 作业1于23-05-15完成。
+2. 作业2与23-06-17完成。(在pytorch.ipynb中选取模型并训练模型，花费了很多时间)
 
 ## 发现不同：
 在`Assignment1`中，`Q4:Two-Layer-network`和`Q5:feature`使用到`TwoLayerNetwork()`类，这个类存在在`fc_net.py`中，这个类没有`train()`方法，所有和以往的作业有所不同(往年的作业中有`neural_net.py`类，并且今年`Q4`像`Assigment2`中的`Q1: Multi-Layer Fully Connected Neural Networks`)
