@@ -22,3 +22,5 @@ Continue to update my work till finish all assignments.
 
 ## 发现不同：
 在`Assignment1`中，`Q4:Two-Layer-network`和`Q5:feature`使用到`TwoLayerNetwork()`类，这个类存在在`fc_net.py`中，这个类没有`train()`方法，所有和以往的作业有所不同(往年的作业中有`neural_net.py`类，并且今年`Q4`像`Assigment2`中的`Q1: Multi-Layer Fully Connected Neural Networks`)
+
+在`Assignemnt2`中，`Q5:PyTorch`中需要自行训练一个准确率大于70%的模型，我主要使用了AlexNet 和 VGGNet 中的一些方法，就已经花费了很长时间，最高在验证集上达到83%。希望可以考虑GoogleNet 中的Inception模块(version1 - version4)，以及ResNet 中的残差模块，达到85%以上的准确率。
