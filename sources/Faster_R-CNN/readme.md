@@ -7,9 +7,9 @@ You can add the first dataset in my Dataset, the second in the public dataset PA
 第一个是我的数据集中的，第二个是在公共数据集中的PASCAL VOC 2012。
 
 结果:
-![损失](../loss_and_lr20230727-084555.png)
+![损失](./loss_and_lr20230727-084555.png)
 
-![准确率](../mAP.png)
+![准确率](./mAP.png)
 
 And here are my visited source links（参考链接）:
 1. https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_object_detection/faster_rcnn
